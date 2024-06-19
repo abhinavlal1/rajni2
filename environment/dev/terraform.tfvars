@@ -1,0 +1,10 @@
+rg_input={
+        rg1={
+            name="rg-dev1"
+            location="australiacentral"
+        }
+        rg2={
+            name="rg-dev2"
+            location="australiacentral"
+        }
+    }
